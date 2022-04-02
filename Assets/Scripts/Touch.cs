@@ -9,7 +9,8 @@ public class Touch : Button
 
     public string LR;
     
-    private void Update()
+
+    private void FixedUpdate()
     {
         if (IsPressed())
         {

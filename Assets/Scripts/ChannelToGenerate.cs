@@ -22,7 +22,10 @@ public class ChannelToGenerate : MonoBehaviour
     private void Update()
     {
         transform.Translate(Vector3.back * moveSpeed * Time.deltaTime);
-        
+    }
+
+    private void FixedUpdate()
+    {
         if (Input.GetKey(KeyCode.A))
         {
             L();

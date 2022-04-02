@@ -86,6 +86,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3302553387770735031}
     m_Modifications:
+    - target: {fileID: 8059373407249603343, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8059373407249603343, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8419577471270664922, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
       propertyPath: m_Name
       value: "\u901A\u9053 Variant"
@@ -149,6 +157,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3302553387770735031}
     m_Modifications:
+    - target: {fileID: 8059373407249603343, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8059373407249603343, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8419577471270664922, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
       propertyPath: m_Name
       value: "\u901A\u9053 Variant (3)"
@@ -220,6 +236,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3302553387770735031}
     m_Modifications:
+    - target: {fileID: 8059373407249603343, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8059373407249603343, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8419577471270664922, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
       propertyPath: m_Name
       value: "\u901A\u9053 Variant (2)"
@@ -283,6 +307,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3302553387770735031}
     m_Modifications:
+    - target: {fileID: 8059373407249603343, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
+      propertyPath: m_LightProbeUsage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8059373407249603343, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8419577471270664922, guid: e2d67ba40ff5cff409dc9ca914b4f6eb, type: 3}
       propertyPath: m_Name
       value: "\u901A\u9053 Variant (1)"

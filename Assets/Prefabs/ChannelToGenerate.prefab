@@ -138,6 +138,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   channelPrefab: {fileID: 3302553387770735030, guid: f54fdba90894eaf469a3201d01938066, type: 3}
-  rotateSpeed: 4.5
+  rotateSpeed: 6.5
   moveSpeed: 1
   channelList: []
